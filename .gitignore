@@ -62,7 +62,9 @@
 /web/modules/custom/indicia_features
 /web/themes/contrib/
 /web/profiles/contrib/
-/web/libraries/
+#/web/libraries/
+/web/libraries/drupal-superfish
+/web/libraries/chosen
 /web/private/scripts/quicksilver
 
 
