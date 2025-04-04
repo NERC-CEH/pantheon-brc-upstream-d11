@@ -58,8 +58,6 @@
 /drush/Commands/contrib/
 /web/core/
 /web/modules/contrib/
-/web/modules/custom/iform
-/web/modules/custom/indicia_features
 /web/themes/contrib/
 /web/profiles/contrib/
 #/web/libraries/
