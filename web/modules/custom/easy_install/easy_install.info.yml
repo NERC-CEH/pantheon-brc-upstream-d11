@@ -1,0 +1,12 @@
+name: 'Easy Install'
+description: 'Provides UI to delete configuration while uninstalling or reinstalling the modules.'
+package: 'System'
+type: module
+core_version_requirement: ^10 || ^11
+
+configure: easy_install.purge_configurations
+
+# Information added by Drupal.org packaging script on 2023-07-07
+version: '8.x-10.x-dev'
+project: 'easy_install'
+datestamp: 1688720252
