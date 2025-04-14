@@ -37,7 +37,7 @@
         "drupal/backup_migrate": "^5.1",
         "drupal/chosen": "^5.0",
         "drupal/superfish": "^1.10",
-        "drupal/bootstrap": "^5.0",
+        "drupal/bootstrap": "3.x",
         "drupal/radix": "^6.0",
         "noli42/chosen": "^3.0",
         "drupal/colorbox": "^2.1",
@@ -88,9 +88,11 @@
         "drupal/seckit": "^2.0",
         "drupal/antibot": "^2.0",
         "drupal/simple_pass_reset": "^2.0",
-        "drupal/video_embed_field": "3.0-alpha4",
+        "drupal/video_embed_field": "3.0-beta1",
         "drupal/views_data_export": "^1.5",
-        "drupal/webform": "6.3-beta2"
+        "drupal/webform": "6.3-beta2",
+        "drupal/hierarchy_manager": "^3.4",
+        "drupal/bootstrap_barrio": "^5.5"
     },
     "require-dev": {
         "drupal/core-dev": "^11"
