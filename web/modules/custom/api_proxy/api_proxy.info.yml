@@ -1,0 +1,9 @@
+name: API Proxy
+description: Puts Drupal between the front-end and the 3rd party API.
+core_version_requirement: ^10 || ^11
+type: module
+
+# Information added by Drupal.org packaging script on 2023-11-27
+version: '2.0.3'
+project: 'api_proxy'
+datestamp: 1701100105

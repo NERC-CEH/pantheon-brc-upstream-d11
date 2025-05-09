@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6c660bcbc92ea53689f29f6658565fe6",
+    "content-hash": "3e05301a2b9c15304b055daf2f73eb58",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4736,16 +4736,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "11.1.6",
+            "version": "11.1.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "d436fecd9f6296c49fcec0acda19df03129f59dd"
+                "reference": "b0241948975ede8ca221971ecd3f71793447fded"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/d436fecd9f6296c49fcec0acda19df03129f59dd",
-                "reference": "d436fecd9f6296c49fcec0acda19df03129f59dd",
+                "url": "https://api.github.com/repos/drupal/core/zipball/b0241948975ede8ca221971ecd3f71793447fded",
+                "reference": "b0241948975ede8ca221971ecd3f71793447fded",
                 "shasum": ""
             },
             "require": {
@@ -4898,9 +4898,9 @@
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
             "support": {
-                "source": "https://github.com/drupal/core/tree/11.1.6"
+                "source": "https://github.com/drupal/core/tree/11.1.7"
             },
-            "time": "2025-04-02T21:04:03+00:00"
+            "time": "2025-05-08T03:56:29+00:00"
         },
         {
             "name": "drupal/core-composer-scaffold",
@@ -4954,16 +4954,16 @@
         },
         {
             "name": "drupal/core-recommended",
-            "version": "11.1.6",
+            "version": "11.1.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-recommended.git",
-                "reference": "a34dd6ccbe4dcb2ec9fc79bdb9deb0c16da55e64"
+                "reference": "bf6c2fcee9e0fd402f32af70632ed8094ced34a3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/a34dd6ccbe4dcb2ec9fc79bdb9deb0c16da55e64",
-                "reference": "a34dd6ccbe4dcb2ec9fc79bdb9deb0c16da55e64",
+                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/bf6c2fcee9e0fd402f32af70632ed8094ced34a3",
+                "reference": "bf6c2fcee9e0fd402f32af70632ed8094ced34a3",
                 "shasum": ""
             },
             "require": {
@@ -4972,7 +4972,7 @@
                 "doctrine/annotations": "~2.0.2",
                 "doctrine/deprecations": "~1.1.3",
                 "doctrine/lexer": "~2.1.1",
-                "drupal/core": "11.1.6",
+                "drupal/core": "11.1.7",
                 "egulias/email-validator": "~4.0.2",
                 "guzzlehttp/guzzle": "~7.9.2",
                 "guzzlehttp/promises": "~2.0.4",
@@ -4983,7 +4983,7 @@
                 "pear/console_getopt": "~v1.4.3",
                 "pear/pear-core-minimal": "~v1.10.16",
                 "pear/pear_exception": "~v1.0.2",
-                "php-tuf/composer-stager": "~v2.0.0",
+                "php-tuf/composer-stager": "~v2.0.1",
                 "psr/cache": "~3.0.0",
                 "psr/container": "~2.0.2",
                 "psr/event-dispatcher": "~1.0.0",
@@ -5034,9 +5034,9 @@
             ],
             "description": "Core and its dependencies with known-compatible minor versions. Require this project INSTEAD OF drupal/core.",
             "support": {
-                "source": "https://github.com/drupal/core-recommended/tree/11.1.6"
+                "source": "https://github.com/drupal/core-recommended/tree/11.1.7"
             },
-            "time": "2025-04-02T21:04:03+00:00"
+            "time": "2025-05-08T03:56:29+00:00"
         },
         {
             "name": "drupal/cshs",
