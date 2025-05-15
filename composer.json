@@ -88,7 +88,7 @@
         "drupal/seckit": "^2.0",
         "drupal/antibot": "^2.0",
         "drupal/simple_pass_reset": "^2.0",
-        "drupal/video_embed_field": "3.0-beta1",
+        "drupal/video_embed_field": "3.0-beta2",
         "drupal/views_data_export": "^1.5",
         "drupal/webform": "6.3-beta2",
         "drupal/hierarchy_manager": "^3.4",
@@ -207,7 +207,8 @@
         "drupal/commerce_shipping": "^2.12",
         "drupal/commerce_variation_cart_form": "^1.5",
         "drupal/field_defaults": "2.0.x-dev",
-        "drupal/core": "^11.1"
+        "drupal/core": "^11.1",
+        "drupal/one_time_password": "^2.0"
     },
     "require-dev": {
         "drupal/core-dev": "^11"
