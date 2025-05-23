@@ -208,7 +208,8 @@
         "drupal/commerce_variation_cart_form": "^1.5",
         "drupal/field_defaults": "2.0.x-dev",
         "drupal/core": "^11.1",
-        "drupal/one_time_password": "^2.0"
+        "drupal/one_time_password": "^2.0",
+        "drupal/super_login": "2.1.x-dev"
     },
     "require-dev": {
         "drupal/core-dev": "^11"
